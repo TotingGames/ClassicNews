@@ -1,0 +1,33 @@
+nav li {
+    display: inline;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 240px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    font-size: 20px;
+    overflow: hidden;
+} 
+.articleTitle_1 {
+        font-family: helvetica;
+        font-size: 32px;
+        text-align: center;
+        color: white;
+}
+p {
+    font-family: Arial;
+    text-align: center;
+    color: white;
+}
+.describe {
+    font-family: helvetica;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+body {
+    background-color: black;
+}

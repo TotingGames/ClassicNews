@@ -1,0 +1,44 @@
+nav li {
+    display: inline;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 240px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    font-size: 20px;
+    overflow: hidden;
+} 
+body {
+    background-color: black;
+}
+#contact_form p {
+    font-family: Arial;
+    font-size: 34px;
+    color: white;
+    margin-left: 65px;
+    margin-top: 65px;
+    border: black;
+}
+#describe {
+    font-family: Helvetica;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+#Message {
+    font-size: 12px;
+    padding-right: 65px;
+    text-align: left;
+}
+.submit {
+    padding: 0px;
+    margin: 0px;
+    margin-right: 260px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    font-size: 34px;
+}
